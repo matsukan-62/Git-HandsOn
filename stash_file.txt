@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 stashコマンドの練習です。
 ご飯食べたい。
+=======
+stashコマンドの練習です
+これはstashする文章です
+>>>>>>> Stashed changes
